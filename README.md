@@ -1,44 +1,37 @@
-# VO VAN QUOC BAO - 3D Cosmic Portfolio
+# VO VAN QUOC BAO | Blockchain Developer
 
-Một Portfolio chuyên nghiệp dành cho Blockchain Developer với phong cách **Geometric Cosmic 3D** (Hình học Vũ trụ 3D). Website được thiết kế để mang lại trải nghiệm thị giác ấn tượng, kể câu chuyện về hành trình phát triển trong thế giới Web3.
+Xin chào! Tôi là **Võ Văn Quốc Bảo**, một Blockchain Developer chuyên sâu về kiến trúc **Sui Network (Move)** và **EVM (Solidity)**. Tôi đam mê kiến tạo các hạ tầng tài chính phi tập trung minh bạch và mang lại giá trị thực tiễn cho cộng đồng.
 
-## 🚀 Tính năng nổi bật
+## 🌟 Thành tựu nổi bật
 
-- **3D Cosmic Background:** Hệ thống vũ trụ 3D sống động với dải ngân hà xoắn ốc, hành tinh chuyển động và sao băng ngẫu nhiên.
-- **Geometric Elements:** Các khối hình học 3D (Icosahedron, Tetrahedron) trôi lơ lửng, tạo phong cách tối giản và hiện đại.
-- **Storytelling Flow:** Cấu trúc nội dung được sắp xếp có chiều sâu, dẫn dắt người xem qua từng cột mốc kinh nghiệm và dự án.
-- **Bento Grid Experience:** Trưng bày hình ảnh trải nghiệm (Sui x VHU) theo phong cách hiện đại, tối ưu không gian.
-- **Project Deep Dive:** Phân tích chi tiết các dự án tiêu biểu (Sui Charity) với đầy đủ thông tin kỹ thuật và bài học rút ra.
-- **Responsive Design:** Tối ưu hóa hoàn toàn cho mọi thiết bị từ Desktop đến Mobile.
+- **Top 5 Finalist** - Sui Learning Tour Hackathon 2025 (Chuỗi sự kiện đào tạo chuyên sâu về Move & Sui Blockchain).
+- **Lead Blockchain Developer** - Dự án Sui Charity (3HUB), nền tảng đấu giá NFT thiện nguyện trên mạng lưới Sui.
 
-## 🛠️ Công nghệ sử dụng
+## 🚀 Kinh nghiệm tiêu biểu
 
-- **Frontend:** Next.js 15, TypeScript, Tailwind CSS.
-- **3D Graphics:** Three.js, React Three Fiber (R3F), @react-three/drei.
-- **Animation:** Framer Motion.
-- **Icons:** Lucide React.
-- **Deployment:** Vercel.
+### Sui Learning Tour x VHU (12/2025 - 01/2026)
+Tham gia chương trình đào tạo và thi đấu Hackathon do **Sui Foundation** tổ chức.
+- Nghiên cứu sâu về ngôn ngữ lập trình **Move** và cấu trúc Object-centric của Sui.
+- Phát triển giải pháp Web3 thực tế, kết nối cộng đồng nhà phát triển và tối ưu hóa trải nghiệm người dùng trên chuỗi.
+- Kết quả: Đạt thành tích **Top 5 chung cuộc**.
 
-## 📂 Cấu trúc dự án
+### Dự án: Sui Charity (3HUB)
+Nền tảng đấu giá NFT thiện nguyện minh bạch, giúp dòng tiền tài trợ đi trực tiếp từ Smart Contract đến người nhận (Bước Chân Hy Vọng, Hỗ trợ nước sạch...).
+- **Vai trò:** Lead Blockchain Developer.
+- **Giải pháp:** Áp dụng mô hình "Direct-to-Receiver" qua Smart Contract để loại bỏ trung gian, tối ưu hóa cấu trúc Object để giảm Gas fee.
 
-- `/src/components/3d`: Chứa các component xử lý môi trường vũ trụ và hình học 3D.
-- `/src/components/sections`: Chứa các phần nội dung của website (Hero, Experience, Projects, Blog, Contact).
-- `/public/assets`: Chứa hình ảnh trải nghiệm và tài nguyên tĩnh.
+## 🛠️ Kỹ năng chuyên môn
 
-## 🛠️ Cài đặt và Phát triển
+- **Blockchain:** Move (Sui), Solidity (EVM), Smart Contract Security.
+- **Web Development:** Next.js, TypeScript, Tailwind CSS, Framer Motion, Three.js.
+- **Tools:** Sui SDK, Ethers.js, Hardhat.
 
-1. Clone repository:
-   ```bash
-   git clone https://github.com/jaySmith-bad/VOVANQUOCBAO-PORTFOLIO.git
-   ```
-2. Cài đặt dependencies:
-   ```bash
-   npm install
-   ```
-3. Chạy môi trường phát triển:
-   ```bash
-   npm run dev
-   ```
+## 📬 Liên hệ với tôi
+
+- **Email:** [jaysmofficial@gmail.com](mailto:jaysmofficial@gmail.com)
+- **GitHub:** [jaySmith-bad](https://github.com/jaySmith-bad)
+- **Phone/Zalo:** 0338008284
+- **Location:** TP. Hồ Chí Minh, Việt Nam
 
 ---
-Designed & Developed by **Vo Van Quoc Bao**
+*"Kiến tạo hạ tầng tài chính trên các khối chuỗi."*
