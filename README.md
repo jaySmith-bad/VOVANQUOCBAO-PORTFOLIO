@@ -1,11 +1,11 @@
-# VO VAN QUOC BAO | Blockchain Developer
+ VO VAN QUOC BAO | Blockchain Developer
 
-Xin chào! Tôi là **Võ Văn Quốc Bảo**, một Blockchain Developer chuyên sâu về kiến trúc **Sui Network (Move)** và **EVM (Solidity)**. Tôi đam mê kiến tạo các hạ tầng tài chính phi tập trung minh bạch và mang lại giá trị thực tiễn cho cộng đồng.
+Xin chào! Tôi là **Võ Văn Quốc Bảo**, một thực tập sinh Blockchain Developer về kiến trúc **Sui Network (Move)** và **EVM (Solidity)**. Tôi đam mê kiến tạo các hạ tầng tài chính phi tập trung minh bạch và mang lại giá trị thực tiễn cho cộng đồng.
 
-## 🌟 Thành tựu nổi bật
+## 🌟 Thành tựu 
 
 - **Top 5 Finalist** - Sui Learning Tour Hackathon 2025 (Chuỗi sự kiện đào tạo chuyên sâu về Move & Sui Blockchain).
-- **Lead Blockchain Developer** - Dự án Sui Charity (3HUB), nền tảng đấu giá NFT thiện nguyện trên mạng lưới Sui.
+- **Lead Blockchain Developer** - Dự án Sui Charity (3HUB), nền tảng đấu giá NFT thiện nguyện trên mạng lưới Sui.( testnet ) 
 
 ## 🚀 Kinh nghiệm tiêu biểu
 
