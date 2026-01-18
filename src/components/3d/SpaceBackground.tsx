@@ -7,7 +7,7 @@ import * as THREE from 'three';
 
 // --- Stars Component ---
 function Stars() {
-  const ref = useRef<any>();
+  const ref = useRef<any>(null);
   const [stars1] = useState(() => createStars(5000, 20)); // Bán kính lớn hơn
   const [stars2] = useState(() => createStars(3000, 35)); // Bán kính rất lớn để bao phủ
 
@@ -69,7 +69,7 @@ function Galaxy() {
     return pos;
   }, []);
 
-  const ref = useRef<any>();
+  const ref = useRef<any>(null);
   useFrame((state, delta) => {
     if (ref.current) {
       ref.current.rotation.y += delta / 50;
