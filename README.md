@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# VO VAN QUOC BAO - 3D Cosmic Portfolio
 
-## Getting Started
+Một Portfolio chuyên nghiệp dành cho Blockchain Developer với phong cách **Geometric Cosmic 3D** (Hình học Vũ trụ 3D). Website được thiết kế để mang lại trải nghiệm thị giác ấn tượng, kể câu chuyện về hành trình phát triển trong thế giới Web3.
 
-First, run the development server:
+## 🚀 Tính năng nổi bật
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **3D Cosmic Background:** Hệ thống vũ trụ 3D sống động với dải ngân hà xoắn ốc, hành tinh chuyển động và sao băng ngẫu nhiên.
+- **Geometric Elements:** Các khối hình học 3D (Icosahedron, Tetrahedron) trôi lơ lửng, tạo phong cách tối giản và hiện đại.
+- **Storytelling Flow:** Cấu trúc nội dung được sắp xếp có chiều sâu, dẫn dắt người xem qua từng cột mốc kinh nghiệm và dự án.
+- **Bento Grid Experience:** Trưng bày hình ảnh trải nghiệm (Sui x VHU) theo phong cách hiện đại, tối ưu không gian.
+- **Project Deep Dive:** Phân tích chi tiết các dự án tiêu biểu (Sui Charity) với đầy đủ thông tin kỹ thuật và bài học rút ra.
+- **Responsive Design:** Tối ưu hóa hoàn toàn cho mọi thiết bị từ Desktop đến Mobile.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Công nghệ sử dụng
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Frontend:** Next.js 15, TypeScript, Tailwind CSS.
+- **3D Graphics:** Three.js, React Three Fiber (R3F), @react-three/drei.
+- **Animation:** Framer Motion.
+- **Icons:** Lucide React.
+- **Deployment:** Vercel.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📂 Cấu trúc dự án
 
-## Learn More
+- `/src/components/3d`: Chứa các component xử lý môi trường vũ trụ và hình học 3D.
+- `/src/components/sections`: Chứa các phần nội dung của website (Hero, Experience, Projects, Blog, Contact).
+- `/public/assets`: Chứa hình ảnh trải nghiệm và tài nguyên tĩnh.
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠️ Cài đặt và Phát triển
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Clone repository:
+   ```bash
+   git clone https://github.com/jaySmith-bad/VOVANQUOCBAO-PORTFOLIO.git
+   ```
+2. Cài đặt dependencies:
+   ```bash
+   npm install
+   ```
+3. Chạy môi trường phát triển:
+   ```bash
+   npm run dev
+   ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+Designed & Developed by **Vo Van Quoc Bao**
